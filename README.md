@@ -1,0 +1,2 @@
+# CrazyTriangle
+Just for fun.
